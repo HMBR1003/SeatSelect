@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="seat">
+        <item>일반석</item>
+        <item>PREMIUM</item>
+        <item>1루 EXCITING</item>
+        <item>3루 EXCITING</item>
+    </string-array>
+</resources>
